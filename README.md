@@ -10,7 +10,7 @@ This app will fetch random quote from Quotable API and you can share it to your 
 
 ## Screenshot
 
-![screenshot](quote_img1.jpg)
+<img src="quote_img1.jpg" width="180px" height="auto">
 
 ## Getting Started
 
